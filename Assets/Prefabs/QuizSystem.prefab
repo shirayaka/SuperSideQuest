@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2783772191059676197}
   - component: {fileID: 2783772191059676196}
   m_Layer: 5
-  m_Name: Button (2)
+  m_Name: Button 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -308,7 +308,7 @@ GameObject:
   - component: {fileID: 2783772191226506238}
   - component: {fileID: 2783772191226506237}
   m_Layer: 5
-  m_Name: Hasil
+  m_Name: Results
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -579,7 +579,7 @@ GameObject:
   - component: {fileID: 2783772191317723339}
   - component: {fileID: 2783772191317723338}
   m_Layer: 5
-  m_Name: Button (3)
+  m_Name: Button 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1116,7 +1116,7 @@ GameObject:
   - component: {fileID: 2783772191586325789}
   - component: {fileID: 2783772191586325788}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Button 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1508,7 +1508,7 @@ GameObject:
   - component: {fileID: 2783772191919233734}
   - component: {fileID: 2783772191919233733}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: Button 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
